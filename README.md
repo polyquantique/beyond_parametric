@@ -1,4 +1,4 @@
-# Beyond Parametric Approximation:
+# Beyond the Parametric Approximation:
 This code can be used to reproduce results in https://arxiv.org/abs/2312.09239. <br>
 
 ## Code Organization:
