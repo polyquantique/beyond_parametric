@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you find this code useful, please cite it as below."
+authors:
+- family-names: "Chinni"
+  given-names: "Karthik"
+  orcid: "https://orcid.org/0009-0003-8414-2136"
+- family-names: "Quesada"
+  given-names: "Nicolás"
+  orcid: "https://orcid.org/0000-0002-0175-1688"
+title: "Beyond Parametric Approximation"
+version: 
+doi: 
+date-released: 2024-05-30
+url: "https://github.com/polyquantique/Beyond-classical-pump"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Chinni"
+    given-names: "Karthik"
+    orcid: "https://orcid.org/0009-0003-8414-2136"
+  - family-names: "Quesada"
+    given-names: "Nicolás"
+    orcid: "https://orcid.org/0000-0002-0175-1688"
+  journal: "arXiv preprint arXiv:2312.09239"
+  title: "Beyond the parametric approximation: pump depletion, entanglement and squeezing in macroscopic down-conversion"
+  issue: 
+  volume: 
+  year: 2023
