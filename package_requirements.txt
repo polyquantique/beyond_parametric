@@ -1,0 +1,7 @@
+## Packages and Software Required:
+The following packages were used in building the code:
+  - Python 3.10.9
+  - Numpy 1.23.5
+  - Scipy 1.12.0
+  - Julia 1.9.1
+  - QuantumCumulants v0.2.26
