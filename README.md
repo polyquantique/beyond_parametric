@@ -25,3 +25,9 @@ If you find this code useful in your research, please consider citing our paper:
   year={2023}
 }
 ```
+
+## Funding:
+Funding for our work has been provided by
+* Ministère de l'Économie et de l’Innovation du Québec, 
+* Natural Sciences and Engineering Research Council of Canada,
+* Fonds de recherche du Québec-Nature et technologies (FRQNT) under the Programme PBEEE / Bourses de stage postdoctoral
